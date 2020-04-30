@@ -1,0 +1,17 @@
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\VatMoscow.mdf
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\VatMoscow_log.ldf
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Repository.dll.config
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Repository.dll
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Repository.pdb
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\EntityFramework.dll
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Model.dll
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Model.pdb
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\Vat.Model.dll.config
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\EntityFramework.xml
+E:\Admin\dev\VAT Moscow\Vat.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Admin\dev\VAT Moscow\Vat.Repository\obj\Debug\Vat.Repository.csprojAssemblyReference.cache
+E:\Admin\dev\VAT Moscow\Vat.Repository\obj\Debug\Vat.Repository.csproj.CoreCompileInputs.cache
+E:\Admin\dev\VAT Moscow\Vat.Repository\obj\Debug\Vat.Repository.csproj.CopyComplete
+E:\Admin\dev\VAT Moscow\Vat.Repository\obj\Debug\Vat.Repository.dll
+E:\Admin\dev\VAT Moscow\Vat.Repository\obj\Debug\Vat.Repository.pdb

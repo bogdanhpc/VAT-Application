@@ -1,0 +1,9 @@
+E:\Admin\dev\VAT Moscow\VatMoscow\bin\Release\VatMoscow.dll
+E:\Admin\dev\VAT Moscow\VatMoscow\bin\Release\VatMoscow.pdb
+E:\Admin\dev\VAT Moscow\VatMoscow\bin\Release\Newtonsoft.Json.dll
+E:\Admin\dev\VAT Moscow\VatMoscow\bin\Release\Newtonsoft.Json.xml
+E:\Admin\dev\VAT Moscow\VatMoscow\obj\Release\VatModel.csprojAssemblyReference.cache
+E:\Admin\dev\VAT Moscow\VatMoscow\obj\Release\VatModel.csproj.CoreCompileInputs.cache
+E:\Admin\dev\VAT Moscow\VatMoscow\obj\Release\VatModel.csproj.CopyComplete
+E:\Admin\dev\VAT Moscow\VatMoscow\obj\Release\VatMoscow.dll
+E:\Admin\dev\VAT Moscow\VatMoscow\obj\Release\VatMoscow.pdb

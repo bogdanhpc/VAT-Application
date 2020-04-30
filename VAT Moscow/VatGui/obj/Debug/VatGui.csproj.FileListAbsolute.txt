@@ -1,0 +1,31 @@
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VatGui.csprojAssemblyReference.cache
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VAT.Form1.resources
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VAT_MOSCOW.Properties.Resources.resources
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VatGui.csproj.GenerateResource.cache
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VatGui.csproj.CoreCompileInputs.cache
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VatMoscow.mdf
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VatMoscow_log.ldf
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VAT MOSCOW.exe.config
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VAT MOSCOW.exe
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VAT MOSCOW.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\EntityFramework.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\EntityFramework.SqlServer.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Model.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Repository.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Service.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VatMoscow.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\WordProcessor.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Newtonsoft.Json.dll
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Model.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Model.dll.config
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Repository.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Repository.dll.config
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Vat.Service.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\VatMoscow.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\WordProcessor.pdb
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\EntityFramework.xml
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\EntityFramework.SqlServer.xml
+E:\Admin\dev\VAT Moscow\VatGui\bin\Debug\Newtonsoft.Json.xml
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VatGui.csproj.CopyComplete
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VAT MOSCOW.exe
+E:\Admin\dev\VAT Moscow\VatGui\obj\Debug\VAT MOSCOW.pdb
